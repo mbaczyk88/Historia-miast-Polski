@@ -28,6 +28,7 @@ a {
 -------------------------------------------------- */
 html {
   font-size: 14px;
+  cursor: url('unnamed (2).png'), pointer;
   
 }
 @media (min-width: 768px) {
@@ -283,3 +284,5 @@ footer a {
 color:#008FEA;
 text-decoration:none;
 }
+
+
